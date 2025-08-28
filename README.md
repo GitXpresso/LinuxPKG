@@ -1,2 +1,2 @@
 # RPMBuild
-contains tarballs that contains the rpmbuild directory, this repository is to test and learn how to create an .rpm file
+Credits to this "https://www.redhat.com/en/blog/create-rpm-package" website to make this repository possible
