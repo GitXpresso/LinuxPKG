@@ -1,4 +1,5 @@
-# RPMBuild
+# LinuxPKG
+## RPM and DEB files
 
 <details><summary>Credits to the offical redhat rpm creation documentation</summary>
 
@@ -12,14 +13,22 @@ Added Browser rpm and deb files:
 
 - Waterfox
 - Palemoon
-
-Not yet finished:
-
 - Floorp
+
+Not yet tested:
+
+Nothing added here yet...
+
+browser install files that are tested:
+
+- Palemoon
+- Waterfox
 
 Goals:
 - [ ] Create an Basilisk RPM file for an script
 - [X] Create an waterfox RPM file
+- [X] Create an unoffical palemoon Deb file
 - [X] Create an unoffical palemoon RPM file
-- [X] Create an unoffical palemoon RPM file
+- [X] Create an unofficial floorp Deb file
+- [X] Create an unofficial floorp RPM file
 
