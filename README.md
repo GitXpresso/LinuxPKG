@@ -6,7 +6,9 @@ Added Browser rpm and deb files:
 - Palemoon
 
 Not yet finished:
+
 - Floorp
+
 Goals:
 - [ ] Create an Basilisk RPM file for an script
 - [X] Create an waterfox RPM file
