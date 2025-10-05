@@ -1,8 +1,0 @@
-Package: waterfox
-Version: 6.6.3
-Section: base
-Priority: optional
-Architecture: all
-Depends: libgtk-3-dev, libasound-dev
-Maintainer: William Gwin <wg9797@outlook.com>
-Description:  Waterfox Fast and Private Web Browser
