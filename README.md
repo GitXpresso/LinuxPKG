@@ -1,5 +1,13 @@
 # RPMBuild
-Credits to this "https://www.redhat.com/en/blog/create-rpm-package" website to make this repository possible
+
+</details><summary>Credits to the offical redhat rpm creation documentation</summary>
+
+"https://www.redhat.com/en/blog/create-rpm-package" website to make this repository possible
+
+Without the Linux Package "alien" creating an rpm and deb file would take longer
+
+</details>
+
 Added Browser rpm and deb files:
 
 - Waterfox
