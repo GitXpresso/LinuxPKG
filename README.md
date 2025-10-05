@@ -1,6 +1,6 @@
 # RPMBuild
 
-</details><summary>Credits to the offical redhat rpm creation documentation</summary>
+<details><summary>Credits to the offical redhat rpm creation documentation</summary>
 
 "https://www.redhat.com/en/blog/create-rpm-package" website to make this repository possible
 
