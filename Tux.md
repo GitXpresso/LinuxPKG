@@ -1,0 +1,1 @@
+**tux is superior, tux gives you freedom, tux gets rid of that corporate nonsense on windows and macos, tux even lets you delete your bios, boot menu, the system components that make your computer unique, you will love tux as much as tux loves you, tux respects you so respect tux too.**
