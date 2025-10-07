@@ -1,5 +1,9 @@
 # LinuxPKG
 ## RPM and DEB files
+### Currently support distros:
+ 
+ - Debian and debian-based
+ - Fedora and Fedora-based
 
 <details><summary>Credits to the offical redhat rpm creation documentation</summary>
 
