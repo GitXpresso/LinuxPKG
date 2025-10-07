@@ -21,28 +21,51 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 <details><summary>Browsers that are not added</summary>
 
 - [Icecat](https://icecat.org)
-* not finished
+- [Seamonkey]
+- [Mullvad]
+- [Midori]
+- [Pulse ( deprecated ) ]
+
 </details>
-Added Browser rpm and deb files:
 
-- Waterfox
-- Palemoon
-- Floorp
+<details><summary>Browswes with files already created</summary>
 
-Not yet tested:
+- [Tor browser](https://tor-project.org)
+- [Librewolf](https://librewolf.net)
+- [Firefox](https://firefox.com)
 
-Nothing added here yet...
+</details>
 
-browser install files that are tested:
+<details><summary>Browsers with files created but not tested</summary>
 
-- Palemoon
-- Waterfox
+- [Zen](https://zen-browser.app)
 
-Goals:
-- [ ] Create an Basilisk RPM file for an script
+</details>
+<details><summary>Tasks</summary>
+
+<details><summary>Finished tasks.</summary>
+
 - [X] Create an waterfox RPM file
 - [X] Create an unoffical palemoon Deb file
 - [X] Create an unoffical palemoon RPM file
-- [X] Create an unofficial floorp Deb file
-- [X] Create an unofficial floorp RPM file
-- [ ] Compile aarch64 (amd64) waterfox .deb file
+- [X] Create an unoffical floorp deb file
+- [X] Create an unoffical floorp rpm file
+- [X] Create an unoffical zen deb file
+- [X] Create an unoffical zen rpm file
+
+</details>
+
+<details><summary>Unfinished Tasks</summary>
+ 
+- [ ] Create an unoffical icecat rpm file
+- [ ] Create an unoffical icecat deb file
+- [ ] Create an unoffical seamonkey rpm file
+- [ ] Create an unoffical seamonkey deb file
+- [ ] Create an unoffical midori rpm file
+- [ ] Create an unoffical midori deb file
+- [ ] Create an unoffical pulse deb file 
+- [ ] Create an unoffical pulse rpm file
+
+</details>
+
+</details>
