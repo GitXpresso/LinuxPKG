@@ -31,4 +31,4 @@ Goals:
 - [X] Create an unoffical palemoon RPM file
 - [X] Create an unofficial floorp Deb file
 - [X] Create an unofficial floorp RPM file
-
+- [ ] Compile aarch64 (amd64) waterfox .deb file
