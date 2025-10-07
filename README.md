@@ -9,6 +9,20 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 </details>
 
+<details><summary>Browsers that are finished</summary>
+
+- [Floorp](https://floorp.app)
+- [Waterfox](https:/waterfox.net)
+- [Palemoon](https://palemoon.org)
+- [Basilisk](https://basilisk-browser.org)
+
+</details>
+
+<details><summary>Browsers that are not added</summary>
+
+- [Icecat](https://icecat.org)
+* not finished
+</details>
 Added Browser rpm and deb files:
 
 - Waterfox
