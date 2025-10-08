@@ -24,11 +24,10 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 <details><summary>Browsers that are not added</summary>
 
-- [Icecat](https://icecat.org)
-- [Seamonkey]
-- [Mullvad]
-- [Midori]
-- [Pulse ( deprecated ) ]
+- [[Icecat](https://icecatbrowser.org/)
+- [Seamonkey](https://www.seamonkey-project.org)
+- [Midori](https://astian.org/midori-browser/)
+- [Pulse ( EOL [ End of Release ] )(https://pulse-browser.com/)
 
 </details>
 
@@ -37,7 +36,7 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 - [Tor browser](https://tor-project.org)
 - [Librewolf](https://librewolf.net)
 - [Firefox](https://firefox.com)
-
+- [Mullvad](https://mullvad.net/en)
 </details>
 
 <details><summary>Browsers with files created but not tested</summary>
