@@ -27,7 +27,7 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 - [[Icecat](https://icecatbrowser.org/)
 - [Seamonkey](https://www.seamonkey-project.org)
 - [Midori](https://astian.org/midori-browser/)
-- [Pulse](https://pulse-browser.com/)(EOL)
+- [Pulse](https://pulse-browser.com/) * Deprecated
 
 </details>
 
