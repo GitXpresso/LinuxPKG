@@ -72,3 +72,10 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 </details>
 
 </details>
+
+<details><summary>Debian Control/*.spec changelog</summary>
+
+* Oct 9 William Gwin <wg9797@outlook.com>
+- Added Install-Size for both .deb and .rpm for all releases
+
+</details>
