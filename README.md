@@ -84,8 +84,11 @@ Browsers with the latest Release:
 - Waterfox
 
 Browser new release but new release not added:
+
  - Basilisk
+
 Browsers new release not checked:
+
 - Floorp
 - Palemoon
 - Seamonkey 
