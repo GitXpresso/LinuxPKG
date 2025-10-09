@@ -53,8 +53,8 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 - [X] Create an unoffical palemoon RPM file
 - [X] Create an unoffical floorp deb file
 - [X] Create an unoffical floorp rpm file
-- [X] Create an unoffical zen deb file
-- [X] Create an unoffical zen rpm file
+- [X] Create an unoffical seamonkey rpm file
+- [X] Create an unoffical seamonkey deb file
 
 </details>
 
@@ -62,12 +62,12 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
  
 - [ ] Create an unoffical icecat rpm file
 - [ ] Create an unoffical icecat deb file
-- [ ] Create an unoffical seamonkey rpm file
-- [ ] Create an unoffical seamonkey deb file
 - [ ] Create an unoffical midori rpm file
 - [ ] Create an unoffical midori deb file
 - [ ] Create an unoffical pulse deb file 
 - [ ] Create an unoffical pulse rpm file
+- [ ] Create an unoffical zen deb file
+- [ ] Create an unoffical zen rpm file
 
 </details>
 
