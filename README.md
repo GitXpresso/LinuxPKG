@@ -19,13 +19,12 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 - [Waterfox](https:/waterfox.net)
 - [Palemoon](https://palemoon.org)
 - [Basilisk](https://basilisk-browser.org)
-
+- [SeaMonkey](https://www.seamonkey-project.org)
 </details>
 
 <details><summary>Browsers that are not added</summary>
 
 - [Icecat](https://icecatbrowser.org/)
-- [Seamonkey](https://www.seamonkey-project.org)
 - [Midori](https://astian.org/midori-browser/)
 - [Pulse](https://pulse-browser.com/) * Deprecated
 
@@ -79,3 +78,14 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 - Added Install-Size for both .deb and .rpm for all releases
 
 </details>
+
+Browsers with the latest Release:
+
+- Waterfox
+
+Browser new release but new release not added:
+ - Basilisk
+Browsers new release not checked:
+- Floorp
+- Palemoon
+- Seamonkey 
