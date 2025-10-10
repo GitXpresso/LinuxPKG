@@ -83,7 +83,8 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 Browsers with the latest Release:
 
 
-- Waterfox [![Maintenance](https://img.shields.io/badge/Latest-release%3F-yes-green.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
+- Waterfox
+[![Maintenance](https://img.shields.io/badge/Latest-release%3F-yes-green.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
 
 - 
 - Basilisk
