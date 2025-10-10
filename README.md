@@ -80,15 +80,10 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 </details>
 
-[![Maintenance](https://img.shields.io/badge/Latest-release%3F-yes-green.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
-
-
 Browsers with the latest Release:
 
 
 - Waterfox
-
-- 
 - Basilisk
 - Floorp
 - Zen
