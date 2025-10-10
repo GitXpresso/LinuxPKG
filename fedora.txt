@@ -1,0 +1,7 @@
+Fedora version 38 and lower equivalent of /var/lib/apt/lists
+
+/var/cache/dnf
+
+Fedora version 38+ equivalent of /var/lib/apt/lists
+
+/var/cache/libdnf5
