@@ -1,4 +1,6 @@
 # LinuxPKG
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-red.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
+
 ## RPM and DEB files
 ### Currently support distros:
  
@@ -80,7 +82,10 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 Browsers with the latest Release:
 
-- Waterfox
+
+- Waterfox [![Maintenance](https://img.shields.io/badge/Latest-release%3F-yes-green.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
+
+- 
 - Basilisk
 - Floorp
 - Zen
