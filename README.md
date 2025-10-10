@@ -57,16 +57,15 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 </details>
 
+- [X] Create an unoffical zen deb file
+- [X] Create an unoffical zen rpm file
+
 <details><summary>Unfinished Tasks</summary>
  
 - [ ] Create an unoffical icecat rpm file
 - [ ] Create an unoffical icecat deb file
-- [ ] Create an unoffical midori rpm file
-- [ ] Create an unoffical midori deb file
 - [ ] Create an unoffical pulse deb file 
 - [ ] Create an unoffical pulse rpm file
-- [ ] Create an unoffical zen deb file
-- [ ] Create an unoffical zen rpm file
 
 </details>
 
@@ -84,11 +83,12 @@ Browsers with the latest Release:
 - Waterfox
 - Basilisk
 - Floorp
-Browser new release but new release not added:
-
 - Zen
-
-Browsers new release not checked:
-
 - Palemoon
 - Seamonkey 
+
+
+Browser new release but new release not added:
+( none )
+Browsers new release not checked:
+
