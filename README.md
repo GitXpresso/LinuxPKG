@@ -82,11 +82,11 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 Browsers with the latest Release:
 
 - Waterfox
-
+- Basilisk
+- Floorp
 Browser new release but new release not added:
 
- - Basilisk
- - Floorp
+- Zen
 
 Browsers new release not checked:
 
