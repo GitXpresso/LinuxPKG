@@ -87,13 +87,13 @@ Browsers with the latest Release:
 - Basilisk
 - Floorp
 - Zen
-- Palemoon
+- Palemoon ( Newest release, files created but not tested )
 - Seamonkey 
 
 
 Browser new release but new release not added:
 
-Palemoon, Version: 33.9.1
+( none )
 
 Browsers new release not checked:
 
