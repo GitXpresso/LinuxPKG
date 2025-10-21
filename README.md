@@ -1,5 +1,5 @@
 # LinuxPKG
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-red.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GitXpresso/linuxpkg/graphs/commit-activity)
 
 ## RPM and DEB files
 ### Currently support distros:
