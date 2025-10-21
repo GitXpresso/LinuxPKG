@@ -42,7 +42,7 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 
 <details><summary>Browsers with files created but not tested</summary>
 
-- [Zen](https://zen-browser.app)
+- [Palemoon](https://palemoon.org)
 
 </details>
 <details><summary>Tasks</summary>
