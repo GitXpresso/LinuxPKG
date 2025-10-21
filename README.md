@@ -92,6 +92,8 @@ Browsers with the latest Release:
 
 
 Browser new release but new release not added:
-( none )
+
+Palemoon, Version: 33.9.1
+
 Browsers new release not checked:
 
