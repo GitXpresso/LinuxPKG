@@ -83,12 +83,12 @@ Without the Linux Package "alien" creating an rpm and deb file would take longer
 Browsers with the latest Release:
 
 
-- Waterfox
-- Basilisk
-- Floorp
-- Zen
-- Palemoon ( Newest release, files created but not tested )
-- Seamonkey 
+- Waterfox ( 6.6.4 )
+- Basilisk ( 2025.07.04 )
+- Floorp ( 12.2.1 )
+- Zen ( 1.16.4b )
+- Palemoon ( 33.9.1 ) [ Newest release, RPM file not tested ]
+- Seamonkey ( 2.53.21 )
 
 
 Browser new release but new release not added:
