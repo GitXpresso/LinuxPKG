@@ -1,0 +1,1 @@
+fpm -s deb -t rpm --rpm-use-file-permissions /home/$USER/floorp-12.2.1-x86_64.deb
